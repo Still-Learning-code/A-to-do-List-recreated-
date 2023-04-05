@@ -1,24 +1,5 @@
-
-Skip to content
-All gists
-Back to GitHub
-@Still-Learning-code
-@Still-Learning-code
-Still-Learning-code/a-to-do-list-recreated.markdown
-Created Jan 28, 2023
-
-    0
-
-Code
-Revisions 1
+    
 A to do List (recreated)
-a-to-do-list-recreated.markdown
-A to do List (recreated)
-
-A Pen by Mike McKenna on CodePen.
-
-License.
-index.html
 <!DOCTYPE html>
 <html lang ="en-us">
 <head>
@@ -204,5 +185,4 @@ function newElement() {
 
 </body>
 </html>
-@Still-Learning-code
 
